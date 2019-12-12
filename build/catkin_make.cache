@@ -1,0 +1,2 @@
+ros_essentials_cpp
+-DCATKIN_DEVEL_PREFIX=/home/abhijeet/jobs/Turtle_bot_my_teleop/devel -DCMAKE_INSTALL_PREFIX=/home/abhijeet/jobs/Turtle_bot_my_teleop/install -G Unix Makefiles
